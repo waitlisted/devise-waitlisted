@@ -1,1 +1,0 @@
-# Waitlisted integration for devise
